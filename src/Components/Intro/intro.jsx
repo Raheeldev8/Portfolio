@@ -13,7 +13,7 @@ function MainCard() {
       <div className='s-cards'>
         <MyCards
           pic={img}
-          title="Zoro"
+          title="luffy"
           data="
            Zoro, the Straw Hat Pirates’ swordsman, wields a three-sword style and dreams of being the greatest. His strength, loyalty to Luffy, and discipline make him an essential part of the crew."
         />
@@ -27,21 +27,8 @@ function MainCard() {
           title="Zoro"
           data="
      Jinbe, the Straw Hat Pirates' helmsman, is a master of Fish-Man Karate and a former Warlord of the Sea. His wisdom and strength, paired with his dream of peace between humans and fishmen, make him indispensable to the crew." />
-        <MyCards
-          pic={img}
-          title="Zoro"
-          data="
-     Jinbe, the Straw Hat Pirates' helmsman, is a master of Fish-Man Karate and a former Warlord of the Sea. His wisdom and strength, paired with his dream of peace between humans and fishmen, make him indispensable to the crew." />
-        <MyCards
-          pic={img}
-          title="Zoro"
-          data="
-     Jinbe, the Straw Hat Pirates' helmsman, is a master of Fish-Man Karate and a former Warlord of the Sea. His wisdom and strength, paired with his dream of peace between humans and fishmen, make him indispensable to the crew." />
-        <MyCards
-          pic={img}
-          title="Zoro"
-          data="
-     Jinbe, the Straw Hat Pirates' helmsman, is a master of Fish-Man Karate and a former Warlord of the Sea. His wisdom and strength, paired with his dream of peace between humans and fishmen, make him indispensable to the crew." />
+       
+       
 
       </div>
     </>
