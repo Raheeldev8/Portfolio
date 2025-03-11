@@ -1,0 +1,12 @@
+.about-container{
+display: flex;
+justify-content: space-between;
+padding: 30px;
+}
+.about-data{
+  width: 600px;
+}
+.about-img img{
+  height: 400px;
+  width: 800px;
+}

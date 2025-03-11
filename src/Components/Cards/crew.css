@@ -1,0 +1,23 @@
+.card{
+  max-width: 400px;
+  border: 1px solid hsl(0, 0%, 80%);
+  box-shadow: inset 0 0 80px whitesmoke, inset 20px 0px 80px rgb(0, 81, 255), inset -20px 0 80px rgb(0, 195, 255);
+  padding: 20px;
+  margin: 10px;
+  text-align: center;
+  max-width: 250px;
+  display: inline-block;
+}
+.card p{
+  text-align: start;
+  padding: 20px 0;
+}
+
+.card img{
+  /* max-width: 60%; */
+  /* height: 200px; */
+  width: 100%;
+  border-radius: 10px;
+  /* margin: 10px; */
+
+}
